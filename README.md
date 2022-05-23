@@ -1,9 +1,9 @@
 ## Hi! I'm Sid 
 
-👨🏾‍💻 Apaixonado e curioso por tecnologia, em migração para a área, com graduação em andamento no curso de Análise de Sistemas e Desenvolvimento.
-👨‍🎓 Curso concluído de FullStack Web Dev. pela edtech SoulCode Academy.
-🖥️ Estudante Front-End do programa Hiring Coders #3 (Gama Academy + VTEX).
-🖥️ Estudante no programa de capacitação e desenvolvimento web pela StartSe (Tech Academy).
+👨🏾‍💻 Apaixonado e curioso por tecnologia, em migração para a área, com graduação em andamento no curso de Análise de Sistemas e Desenvolvimento.<br>
+👨‍🎓 Curso concluído de FullStack Web Dev. pela edtech SoulCode Academy.<br>
+🖥️ Estudante Front-End do programa Hiring Coders #3 (Gama Academy + VTEX).<br>
+🖥️ Estudante no programa de capacitação e desenvolvimento web pela StartSe (Tech Academy).<br>
 <hr>
 <div>
 <a href="http://wa.me/5581991727887" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
