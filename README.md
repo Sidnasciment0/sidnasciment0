@@ -5,6 +5,7 @@
 🖥️ Estudante Front-End do programa Hiring Coders #3 (Gama Academy + VTEX).<br>
 🖥️ Estudante no programa de capacitação e desenvolvimento web pela StartSe (Tech Academy).<br>
 🖥️ Estudante no Bootcamp da DiversiData Tech PAN, com conceitos fundamentais, coleta e o processamento de dados em escala Big Data (IGTI + Banco Pan).<br>
+🖥️ Estudante no Programa Trainee Sysmap de Excelência FullStack pela SysMap Solutions (2022).<br>
 <hr>
 <div>
 <a href="http://wa.me/5581991727887" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
